@@ -5,15 +5,15 @@ I’m learning step by step and adding projects one by one.
 
 ## Folder Structure
 
-
 circuit-designs/
-Practise 1(USB C Power Supply)/
-schematic.pdf
-pcb-layout.pdf
-pcb-layout.png
-project-files/
-(EasyEDA JSON)
-README.md
+│
+└── Practise 1 (USB C Power Supply)/
+├── schematic.pdf # Circuit schematic
+├── pcb-layout.pdf # PCB layout (PDF export)
+├── pcb-layout.png # PCB layout (image preview)
+├── project-files/ # EasyEDA source files
+│ └── project.json
+└── README.md # Project details
 
 
 ## Projects
