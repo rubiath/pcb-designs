@@ -4,6 +4,9 @@ What I practiced:
 - Converting to PCB layout
 - Exporting files (PDF, Gerber)
 
+## 🖥️ 3D View
+<img src="pcb_3d.png" width="400">  
+
 **Files in this folder:**
 - `schematic.pdf` — Circuit schematic
 - `pcb-layout.pdf` — PCB layout pdf
