@@ -5,13 +5,13 @@ This repository contains the PCB design files for an **IR sensor array** used in
 ---
 
 ## 📐 PCB Layout
-<img src="pcb-layout.png" width="400">
+<img src="images/pcb-layout.png" width="400">
 
 ---
 
 ## 🖥️ 3D View
-<img src="3d-front.png" width="400">  
-<img src="3d-back.png" width="400">
+<img src="images/3d-front.png" width="400">  
+<img src="images/3d-back.png" width="400">
 
 ---
 
