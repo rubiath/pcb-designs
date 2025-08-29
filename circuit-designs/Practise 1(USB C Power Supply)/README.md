@@ -7,7 +7,7 @@ What I practiced:
 
 ## 🖥️ 3D View
 <img src="images/3D_front.png" width="400">  
-<img src="images/3D_front.png" width="400">  
+<img src="images/3D_back.png" width="400">  
 
 **Files in this folder:**
 - `schematic.pdf` — Circuit schematic
