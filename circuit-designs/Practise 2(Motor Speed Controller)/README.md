@@ -7,7 +7,7 @@ What I practiced:
 **Files in this folder:**
 - `schematic.pdf` — Circuit schematic
 - `pcb-layout.pdf` — PCB layout pdf
-- `pcb-layout.png` — PCB layout image
+- `3D_view.png` — 3D image of the PCB
   
 > Status: Beginner level project for learning workflow.
 
